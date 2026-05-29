@@ -7,6 +7,9 @@ The dataset contains two columns:
 
 Quote → The text of the quote
 Author → The person who said the quote
+
+
+
 ⚙️ Steps Performed
 Loaded dataset using Pandas
 Displayed first 5 rows of data
@@ -15,11 +18,17 @@ Counted total number of quotes
 Found number of unique authors
 Identified top authors using value_counts()
 Visualized top authors using a bar chart
+
+
+
 📊 Key Insights
 Total quotes analyzed: 10
 Unique authors: 7
 Some authors have multiple quotes (e.g., Albert Einstein, J.K. Rowling)
 Visual representation helps easily understand author frequency
+
+
+
 🛠️ Technologies Used
 Python 🐍
 Pandas 📊
